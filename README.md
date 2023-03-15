@@ -34,4 +34,4 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
   
 </div>
 
-![snake gif](https://github.com/torigabrielle/torigabrielle/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/KataskeSan/KataskeSan/blob/output/github-contribution-grid-snake.svg)
