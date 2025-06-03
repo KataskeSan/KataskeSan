@@ -1,19 +1,4 @@
 ## Opa, sou Kataske e é um prazer conhecer vocês!!!!!
-
-Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
-mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
-
-<div align="center">
-  <a href="https://github.com/KataseSan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KataskeSan&show_icons=false&theme=midnight-purple&include_all_commits=false&count_private=false">
-</div>
-
--   Recentemente estou aprendendo **C-Sharp**
-
--  A próxima parada é **VRML**
-
--  Estou estudando bastante sobre o mundo 16-bit.
-  
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Kata-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
