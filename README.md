@@ -18,4 +18,5 @@
   <a href="https://www.linkedin.com/in/rycardo-pereria-costa-kataskesan-49654a180/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KataskeSan&layout=donut-vertical)](https://github.com/KataskeSan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KataskeSan&layout=donut-vertical&theme=one_dark_pro)](https://github.com/KataskeSan/github-readme-stats)
+
