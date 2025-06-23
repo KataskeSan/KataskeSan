@@ -17,9 +17,3 @@
  <a href="https://discord.gg/wc3Xmm2FYE="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/rycardo-pereria-costa-kataskesan-49654a180/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-
-<div>
-  <a href="https://github.com/KataskeSan">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KataskeSan&layout=donut-vertical&theme=dark" alt="Top Langs" />
-  </a>
-</div>
