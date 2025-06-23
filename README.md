@@ -1,4 +1,49 @@
-## Opa, sou Kataske e é um prazer conhecer vocês!!!!!
+## 👋 About Me
+
+<p align="justify">
+Hey there! I'm a <strong>Full Stack Developer</strong> looking for my first opportunity in tech. I'm passionate about solving problems and turning ideas into real, functional solutions.
+</p>
+
+<p align="justify">
+I've worked as a <strong>sprite artist</strong> on indie game projects and also explored the world of <strong>web design</strong>, which helped me develop a good eye for clean visuals and user-friendly layouts.
+</p>
+
+<p align="justify">
+I’m always learning something new, experimenting with side projects, and excited to contribute to creative and meaningful work.
+</p>
+
+---
+
+## 🛠️ Tech Skills
+
+- HTML5, CSS3, JavaScript  
+- React, Node.js  
+- PHP, MySQL  
+- Git & GitHub  
+- Figma, Photoshop (basic)
+
+---
+## 🚀 Projects
+
+| Project | Description |
+|--------|-------------|
+| **Portfolio Website** | A personal website to showcase my work and skills. Built with HTML, CSS, and JS. |
+| **Indie Game Assets** | Worked as a spriter for indie games, focusing on pixel art and character animations. |
+| **Landing Pages** | Created responsive and modern landing pages for fictional products and events. |
+
+---
+## 📫 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/)  
+- [GitHub](https://github.com/KataskeSan)  
+- 📧 shortly
+
+---
+
+<p align="center">
+Thanks for visiting! 🚀
+</p>
+
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Kata-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
