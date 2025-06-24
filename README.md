@@ -32,13 +32,6 @@ I’m always learning something new, experimenting with side projects, and excit
 | **Landing Pages** | Created responsive and modern landing pages for fictional products and events. |
 
 ---
-## 📫 Let's Connect
-
-- [LinkedIn](https://www.linkedin.com/)  
-- [GitHub](https://github.com/KataskeSan)  
-- 📧 shortly
-
----
 
 <p align="center">
 Thanks for visiting! 🚀
